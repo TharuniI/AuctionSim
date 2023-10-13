@@ -1,5 +1,5 @@
 # AuctionSim
-Auction Simulator that mimicks and online auctioning application, that allows users to login as a particular user type, and perform certain actions depending on their set of permissions. Developed in a group of 3 and the work was split into 6 phases. Weekly meetings were held to discuss what was successful from last week and where to improve, goals for the current week and how to acheive them.
+Auction Simulator that mimics an online auctioning application, that allows users to login as a particular user type, and perform certain actions depending on their set of permissions. Developed in a group of 3 and the work was split into 6 phases. Weekly meetings were held to discuss what was successful from last week and where to improve, goals for the current week and how to acheive them.
 
 #### Phase 1 - Requirements Gathering
 In this phase, we gathered the software requirements from the stakeholders, and end-users. We defined the scope, features, and functionality of the software. We also defined the feasability; what the joint abilites of our team memebers were and if the application could be finished in the requested time, and how it could be acheived. 
